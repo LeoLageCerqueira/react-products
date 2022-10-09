@@ -1,0 +1,15 @@
+.productsList{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-top: 50px;
+  padding: 70px;
+  width: 120%;
+  height: 120%;
+  background-color: bisque;
+  color: black;
+  opacity: 0.8;
+}
+
+ul li{
+    padding: 15px;
+}
